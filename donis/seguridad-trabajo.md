@@ -1,4 +1,4 @@
-[⬅️ Volver al Índice Principal](../../README.md)
+[⬅️ Volver al Índice Principal](../README.md)
 
 <div align="center">
 
